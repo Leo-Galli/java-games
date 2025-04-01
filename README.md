@@ -4,7 +4,7 @@ This repository contains a collection of Java-based games created for learning, 
 Project under [LICENSE](https://github.com/Leo-Galli/java-games?tab=Apache-2.0-1-ov-file), you are free to report any abuse at ```abuse@leodev.it```
 
 ## Features
-- **[Flappy Bird](https://github.com/Leo-Galli/java-games/tree/main/Flappy%20Bird)**: A simple yet engaging clone of the classic Flappy Bird game.
+- **[Flappy Bird](https://github.com/Leo-Galli/java-games/tree/main/Flappy_Bird)**: A simple yet engaging clone of the classic Flappy Bird game.
 - **Other Games**: (You can list additional games in your collection here, such as Snake, Tic-Tac-Toe, or Pong, if applicable.)
 
 ## Getting Started
