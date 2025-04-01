@@ -1,7 +1,7 @@
 # Java Game Projects
 
 This repository contains a collection of Java-based games created for learning, experimenting, and fun. Each game is implemented using core Java concepts, along with frameworks like Swing and AWT for graphical elements.
-Project under [LICENSE](https://github.com/Leo-Galli/java-games/blob/main/LICENSE), you are free to report any abuse at ```abuse@leodev.it```
+Project under [LICENSE](https://github.com/Leo-Galli/java-games?tab=Apache-2.0-1-ov-file), you are free to report any abuse at ```abuse@leodev.it```
 
 ## Features
 - **[Flappy Bird](https://github.com/Leo-Galli/java-games/tree/main/Flappy%20Bird)**: A simple yet engaging clone of the classic Flappy Bird game.
