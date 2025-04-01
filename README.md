@@ -18,3 +18,14 @@ To run these games, you need:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Leo-Galli/java-games.git
+
+2. Navigate to the game's directory and ensure all resources (e.g., images, sounds) are in the correct folder.
+
+3. Compile the game:
+
+   ```bash
+javac name.java
+
+4. Run the game
+   ```bash
+java name.java
