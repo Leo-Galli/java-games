@@ -3,7 +3,7 @@
 This repository contains a collection of Java-based games created for learning, experimenting, and fun. Each game is implemented using core Java concepts, along with frameworks like Swing and AWT for graphical elements.
 
 ## Features
-- **Flappy Bird**: A simple yet engaging clone of the classic Flappy Bird game.
+- **[Flappy Bird](https://github.com/Leo-Galli/java-games/tree/main/Flappy%20Bird)**: A simple yet engaging clone of the classic Flappy Bird game.
 - **Other Games**: (You can list additional games in your collection here, such as Snake, Tic-Tac-Toe, or Pong, if applicable.)
 
 ## Getting Started
