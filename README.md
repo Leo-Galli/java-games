@@ -24,8 +24,8 @@ To run these games, you need:
 3. Compile the game:
 
    ```bash
-javac name.java
+   javac name.java
 
 4. Run the game
    ```bash
-java name.java
+   java name.java
